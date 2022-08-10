@@ -1,4 +1,4 @@
-#  Basic expense app created with React 
+#  Budget app created with React 
 
 This application is a simple expense app utilizing react.js. The concept behind this application was to implement state and working with events. Working with reacts basic components is another part of this applications background.
 
